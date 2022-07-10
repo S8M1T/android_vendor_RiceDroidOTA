@@ -1,0 +1,27 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme X7 Max (RMX3031)
+Device maintainer: Sumit Mohanty (S8M1T)
+
+==== 10 July, 2022 ====
+- Kernel upstreamed to Linux-4.14.286
+- Include Screen off gestures 
+- Make recovery permissive
+- Enable auto brightness while dozing
+- Make default scaling_governor schedutil
+- Set arch variant to armv8-2a-dotprod 
+- Setup dalvik vm configs
+- Add RMOverlayManager for lawnchair ( if using)
+- Fix format data in recovery
+- Fix touch in recovery
+- Fix OTG in recovery
+- Fix brightness issue on init in recovery
+- Kernel changes picked from citrus (by Tejas Udupa)
+- Make Power Limiter more aggressive
+- Merge Power Limiter v1.2
+- Allow schedutil to control frequency limits
+- Add SLMK low memory killer module
+- Disbale power debug module
+- Enable dead code elimination
+- Disable more log spams
+- Add haptic level adjustment

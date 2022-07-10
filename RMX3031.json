@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Sumit Mohanty (S8M1T)",
+        "oem": "Realme",
+        "device": "Realme X7 Max",
+        "filename": "riceDroid-12.1-2022071012-RMX3031-v3.0-PIXEL.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/RMX3031/3.x/riceDroid-12.1-2022071012-RMX3031-v3.0-PIXEL.zip/download",
+        "timestamp": 1657448277,
+        "md5": "a8169771bf8c371c9e26ff06cc03eb28",
+        "sha256": "68ec318d2bf40916dead6139b735a653a6dd6f5062f5bb3322d20f8c511ba2c4",
+        "size": 1640852931,
+        "version": "3.0",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/S8M1T",
+        "telegram": "https://t.me/S8M1T",
+        "dt": "https://github.com/S8M1T/ricedroid_device_realme_RMX3031/tree/12.1",
+        "common-dt": "",
+        "kernel": "https://github.com/crdroidandroid/android_kernel_realme_RMX3031/tree/12.1"
+    }
+  ]
+}
